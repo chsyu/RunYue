@@ -111,6 +111,7 @@
 - [參考2](http://blog.sina.com.tw/abraham/article.php?entryid=573154)
 - [參考3](https://www.duosuccess.com/tcm/004a05061109o.htm)
 - [參考4](https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E8%87%AA%E8%BD%AC#.E6.81.92.E6.98.9F.E6.97.A5.E8.88.87.E5.A4.AA.E9.99.BD.E6.97.A5)
+- [參考5](https://github.com/hotoo/nong/wiki)
 - 以**平氣法**切割的節氣，閏月出現在任何月份的機率幾乎都一樣。相對來說，以**定氣法**切割的節氣，閏月幾乎都出現在夏季。
 
 
